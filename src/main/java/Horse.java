@@ -36,5 +36,5 @@ public class Horse implements Drivable, Domesticatable, Tradable {
     public String toString(){
         String id = super.toString();
         return id + " (Max speed: " + this.maxSpeed +")";
-    }
+    }###
 }
